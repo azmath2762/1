@@ -1,0 +1,4 @@
+listingId,picklistId_mongo,warehouseId_mongo,bin_id,error massage
+LSTSTCGF9MZNCKA4UQQ7VM9ME,P041021-6DFA1721B1FB,4,ST-006-001-001,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//input[@class=""productId-input""]""}
+  (Session info: chrome=94.0.4606.61)
+"

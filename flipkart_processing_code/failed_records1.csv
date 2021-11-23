@@ -1,0 +1,7 @@
+listingId,picklistId_mongo,warehouseId_mongo,bin_id,error massage
+LSTALOG4P473QWW4HGY3MLFA2,P110821-259884C823A8,4,ST-001-004-006,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//input[@class=""productId-input""]""}
+  (Session info: chrome=92.0.4515.131)
+"
+LSTALOG2MC7ZTFU6NSVCK87I3,P110821-259884C823A8,4,ST-001-008-009,"Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//input[@class=""productId-input""]""}
+  (Session info: chrome=92.0.4515.131)
+"
